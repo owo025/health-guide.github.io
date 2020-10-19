@@ -1,2 +1,2 @@
-# health-guide.io
+# health-guide.github.io
 vue.js javascript css html
